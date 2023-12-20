@@ -1,4 +1,3 @@
-x=9
 This is modified in feature-02 branch
 x=1
 This is modified in feature-01 branch
